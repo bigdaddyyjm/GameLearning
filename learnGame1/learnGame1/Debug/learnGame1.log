@@ -1,0 +1,6 @@
+﻿  learnGame1.cpp
+e:\vsproject\learngame1\learngame1\learngame1.cpp(32): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\vsproject\learngame1\learngame1\learngame1.cpp(127): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1282): note: 参见“_sleep”的声明
+  learnGame1.vcxproj -> E:\VSProject\learnGame1\Debug\learnGame1.exe
+  learnGame1.vcxproj -> E:\VSProject\learnGame1\Debug\learnGame1.pdb (Partial PDB)
